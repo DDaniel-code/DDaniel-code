@@ -4,7 +4,7 @@ Applied AI and ML systems builder with a background in statistics and data scien
 
 MISM–BIDA at Carnegie Mellon University · currently exploring LLM inference benchmarking and evaluation systems.
 
-[Website](https://ddaniel-code.github.io/) · [LinkedIn](https://www.linkedin.com/in/danielyang/) · [Email](mailto:zhiyuan912912@gmail.com)
+[Website](https://ddaniel-code.github.io/) · [LinkedIn](www.linkedin.com/in/daniel-yang912) · [Email](mailto:zhiyuan912912@gmail.com)
 
 ## Selected work
 
