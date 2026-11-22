@@ -10,25 +10,9 @@ Seeking Summer 2027 internships in AI/ML and data science.
 
 ## Featured
 
-<table>
-  <tr>
-    <td width="46%" valign="top">
-      <a href="https://github.com/DDaniel-code/carematch">
-        <img src="https://raw.githubusercontent.com/DDaniel-code/carematch/main/docs/screenshots/02_results_dialysis_delhi.png" alt="CareMatch search results for dialysis in Delhi, with quoted evidence and a map">
-      </a>
-    </td>
-    <td valign="top">
-      <b><a href="https://github.com/DDaniel-code/carematch">CareMatch</a></b> · CMU × Databricks Datathon, Fall 2026<br><br>
-      Finds healthcare facilities in India from 10,088 web-extracted records and quotes the sentence each
-      suggestion rests on. A claim-level text classifier separates “performs caesareans” from “mentions
-      caesareans”; a positive-unlabeled model (ROC-AUC 0.84 on held-out regions) and a maximum-coverage
-      optimizer tell NGO planners which facilities to verify first.<br><br>
-      <code>Python</code> <code>scikit-learn</code> <code>Streamlit</code> <code>Databricks</code><br><br>
-      <a href="https://github.com/DDaniel-code/carematch/blob/main/CareMatch.ipynb">Notebook</a> ·
-      <a href="https://drive.google.com/file/d/10Rhk7EOS42YudWVIZFz0DcujLDztApqp/view">Demo video</a>
-    </td>
-  </tr>
-</table>
+**[CareMatch](https://github.com/DDaniel-code/carematch)** · CMU × Databricks Datathon, Fall 2026  
+Finds healthcare facilities in India from 10,088 web-extracted records and quotes the sentence each suggestion rests on, then tells NGO planners which facilities to verify first. [Demo video](https://drive.google.com/file/d/10Rhk7EOS42YudWVIZFz0DcujLDztApqp/view).  
+`scikit-learn` `Streamlit` `Databricks`
 
 **[Multi-Horizon Forecasting](https://github.com/DDaniel-code/2026-data-challenge-forecasting)** · INFORMS 2026 Data Challenge  
 Leakage-safe forecasts at 1, 6, 24 and 48 hours with Extra Trees, LightGBM and CatBoost, evaluated on entities the models never saw.  
